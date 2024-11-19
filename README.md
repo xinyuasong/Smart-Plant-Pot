@@ -1,9 +1,9 @@
 The Story of Spike 🌵
 
 Spike was my pet succulent, a proud resident of my windowsill. It was a silent companion, radiating calm and resilience. Like many succulents, Spike needed minimal care, but that didn’t mean it needed no care. Unfortunately, I overlooked this and failed to water Spike for weeks.
+One day, I found Spike on the floor below the windowsill—its pot shattered, its leaves broken. Whether it was the wind or a silent act of desperation, Spike had fallen. This heartbreaking moment made me realize that I had failed as a plant parent. To honor Spike’s memory and prevent other plants from facing a similar fate, I implemented SpikeGuard.
 
-One day, I found Spike on the floor below the windowsill—its pot shattered, its leaves broken. Whether it was the wind or a silent act of desperation, Spike had fallen. This heartbreaking moment made me realize that I had failed as a plant parent. To honor Spike’s memory and prevent other plants from facing a similar fate, I created SpikeGuard.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🌟 Features
 
 SpikeGuard’s Senses
@@ -21,7 +21,8 @@ SpikeGuard communicates your plant’s status through a colorful 2-inch IPS LCD 
 	•	Sleepy: Not enough light—find a brighter location.
 	•	Savory: After watering, SpikeGuard shows gratitude.
 	•	Happy: Perfect conditions mean your plant is thriving!
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hardware Overview
 
 Brain: Raspberry Pi Zero 2W
@@ -47,7 +48,8 @@ The SpikeGuard housing is 3D-printed using PLA material and designed with three 
 	•	Plant Container
 
 The design avoids screws for ease of assembly. The case holds the sensors, display, and Raspberry Pi securely.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Resources
 Set up Raspberry Pi Zero 2W
 https://www.youtube.com/watch?v=pqtMRdoqlDQ&t=3s
